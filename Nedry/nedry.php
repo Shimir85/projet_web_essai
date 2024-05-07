@@ -15,7 +15,3 @@ include $_SERVER['DOCUMENT_ROOT'].'/ancien2/view/insert/header.php';
     <td><a href="/projet_web/controller/home/index.php">Retour à la page de Login</a></td>
 </div>
 
-salut tout le monde
-
-
-
